@@ -34,6 +34,10 @@
 
 <a id="cases-toc"></a>
 ## 📖 案例目录
+
+  - [案例 8：制作一个知识整理卡片 (by @maple\_cq)](#案例-8制作一个知识整理卡片-by-maple_cq)
+  - [案例 7：制作一个非常有质感的头像 (by @op7418)](#案例-7制作一个非常有质感的头像-by-op7418)
+  - [案例 6：制作玻璃质感头像\&图标 (by @op7418)](#案例-6制作玻璃质感头像图标-by-op7418)
   - [案例 5：制作穿搭拆解OOTD (by @MemeInformation)](#案例-5制作穿搭拆解ootd-by-memeinformation)
   - [案例 4：制作卡通剧情漫画 (by @aiwarts)](#案例-4制作卡通剧情漫画-by-aiwarts)
   - [案例 3：制作生成拼贴画日记图片 (by @op7418)](#案例-3制作生成拼贴画日记图片-by-op7418)
@@ -42,11 +46,77 @@
   - [🤝 贡献案例](#-贡献案例)
   - [🙏 致谢](#-致谢)
   - [🌟 Star历史](#-star历史)
-
 ---
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-8"></a>
+### 案例 8：制作一个知识整理卡片 (by [@maple_cq](https://x.com/maple_cq))
+
+[原文链接](https://x.com/maple_cq/status/1965324650784895128)
+
+|输出 |
+|:---:|
+| <img src="cases/8/after.jpg" width="400" alt="输出图片"> 
+
+
+**提示词:**
+
+```
+请根据近200年数学发展史，以每隔50年为时间间隔，梳理关键的数学家名字，事迹，公式。并按照时间轴的方式呈现。做一张卡片，卡片用于给学生讲课，色调适合少儿观看
+```
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
+
+<a id="cases-7"></a>
+### 案例 7：制作一个非常有质感的头像 (by [@op7418](https://x.com/op7418))
+
+[原文链接](https://x.com/op7418/status/1964564636063453446)
+
+| 输入 | 风格垫图 | 输出 |
+|:---:|:---:|:---:|
+| <img src="cases/7/before2.png" width="200" alt="输入图片"> |  | <img src="cases/7/after.png" width="200" alt="输出结果"> 
+| <img src="cases/7/before3.png" width="200" alt="输入图片"> | <img src="cases/7/before.jpg" width="200" alt="输入图片"> | <img src="cases/7/after3.png" width="200" alt="输出结果"> 
+
+
+**输入1:** 需要上传任意需要转换的人物照片或真实照片
+
+**输入2:** 参考图一的风格和样式为图2的角色生成一个图标，图标下方的文字应该为“guizang”
+
+**提示词:**
+
+```
+参考图1的风格和样式为图2的角色生成一个图标，同时只要参考图2的头部位置，像一个头像图标，图标下方的文字应该为“Jinx”
+```
+> [!NOTE]
+> **需要在提示词中修改用户名**
+---
+
+[⬆️ 返回案例目录](#cases-toc)  
+
+<a id="cases-6"></a>
+### 案例 6：制作玻璃质感头像&图标 (by [@op7418](https://x.com/op7418))
+
+[原文链接](https://x.com/op7418/status/1964969827350839752)
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="cases/6/before.png" width="200" alt="输入图片"> | <img src="cases/6/after.png" width="200" alt="输出结果"> 
+
+
+**输入:** 需要上传任意需要转换的照片
+
+**提示词:**
+
+```
+将这张照片的景色变成一个带有照片相关渐变色，透明磨砂玻璃慢射材质，图标下方用有艺术黑体写着跟图片景色相关的英文标题，纯白背景的圆角矩形图标，C4D，OC渲染。
+```
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
 
 <a id="cases-5"></a>
 ### 案例 5：制作穿搭拆解OOTD (by [@MemeInformation](https://x.com/MemeInformation))
@@ -175,6 +245,7 @@ make a fisheye overhead view of this scene
 *   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
 *   [卡尔的AI沃茨 (@aiwarts)](https://x.com/aiwarts)
 *   [MemeInformation (@MemeInformation)](https://x.com/MemeInformation)
+*   [江枫(@maple_cq)](https://x.com/maple_cq)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
