@@ -35,6 +35,7 @@
   - [目录](#目录)
   - [📖 案例目录](#-案例目录)
   - [🧩 案例](#-案例)
+    - [案例 19：制作电商货品图 (by @OdysseAI\_)](#案例-19制作电商货品图-by-odysseai_)
     - [案例 18：制作立体冰箱贴 (by @宫臣良田)](#案例-18制作立体冰箱贴-by-宫臣良田)
     - [案例 17：制作扁平风格插画 (by @nicekate8888)](#案例-17制作扁平风格插画-by-nicekate8888)
     - [案例 16：制作国风多格漫画 (by @nicekate8888)](#案例-16制作国风多格漫画-by-nicekate8888)
@@ -61,6 +62,30 @@
 <a id="cases"></a>
 ## 🧩 案例
 
+
+<a id="cases-19"></a>
+### 案例 19：制作电商货品图 (by [@OdysseAI_](https://x.com/OdysseAI_))
+
+[原文链接](https://x.com/OdysseAI_/status/1965740244386631715)
+
+|输入 |输出 |
+|:---:|:---:|
+| <img src="cases/19/before.jpg" width="400" alt="输入图片">  | <img src="cases/19/after.jpg" width="400" alt="输出图片">  
+| <img src="cases/19/before.jpg" width="400" alt="输入图片">  | <img src="cases/19/after2.jpg" width="400" alt="输出图片">  
+| <img src="cases/19/before.jpg" width="400" alt="输入图片">  | <img src="cases/19/after3.jpg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+本照片中的模特应穿着图片中的服装和配饰，保持面部和发型不变。模特靠在车旁边，狗狗在她的脚下，鹦鹉在肩膀上
+```
+> [!NOTE]
+> **物品过多有时候会出现位置不对的情况，需要进行对应的调整提示词：进行重绘调整，这个时候我们发现耳机并没有戴在模特的头上，这个时候就需要进行细微调整。
+调整提示词：本照片中的模特应穿着图片中的服装和配饰，保持面部和发型不变。模特靠在车旁边，狗狗在她的脚下，鹦鹉在肩膀上，耳机挂在头上**
+
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
 <a id="cases-18"></a>
 ### 案例 18：制作立体冰箱贴 (by [@宫臣良田](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAHrE5cOudxNBOcL4BZa28J9KpThaRusIZvCHlHSgBiwkbYP2rDQAPtxnI8QLIvily))
 
@@ -283,7 +308,7 @@ d.一个巨大的圆环由四段独立的弧形构成，悬浮于画面右侧。
 
 |输出 |
 |:---:|
-| <img src="cases/12/after.png" width="=400" alt="输出图片"> 
+| <img src="cases/12/after.jpg" width="=400" alt="输出图片"> 
 | <img src="cases/12/after2.jpg" width="200" alt="输出图片"> 
 | <img src="cases/12/after3.jpg" width="200" alt="输出图片"> 
 | <img src="cases/12/after4.jpg" width="400" alt="输出图片"> 
@@ -561,6 +586,7 @@ make a fisheye overhead view of this scene
 *   [落影流年(@irisloveli)](https://x.com/irisloveli)
 *   [nicekate(@nicekate8888)](https://x.com/nicekate8888)
 *   [宫臣良田](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAHrE5cOudxNBOcL4BZa28J9KpThaRusIZvCHlHSgBiwkbYP2rDQAPtxnI8QLIvily)
+*   [OdysseAI 奥德赛(@OdysseAI_)](https://x.com/OdysseAI_)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
