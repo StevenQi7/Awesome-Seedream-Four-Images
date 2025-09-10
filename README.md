@@ -35,6 +35,9 @@
   - [目录](#目录)
   - [📖 案例目录](#-案例目录)
   - [🧩 案例](#-案例)
+    - [案例 22：制作9宫格表情 (by 芜湖。)](#案例-22制作9宫格表情-by-芜湖)
+    - [案例 21：制作动漫手机壁纸 (by Steven)](#案例-21制作动漫手机壁纸-by-steven)
+    - [案例 20：制作商品平面包装设计 (by 口袋)](#案例-20制作商品平面包装设计-by-口袋)
     - [案例 19：制作电商货品图 (by @OdysseAI\_)](#案例-19制作电商货品图-by-odysseai_)
     - [案例 18：制作立体冰箱贴 (by @宫臣良田)](#案例-18制作立体冰箱贴-by-宫臣良田)
     - [案例 17：制作扁平风格插画 (by @nicekate8888)](#案例-17制作扁平风格插画-by-nicekate8888)
@@ -62,7 +65,66 @@
 <a id="cases"></a>
 ## 🧩 案例
 
+<a id="cases-22"></a>
+### 案例 22：制作9宫格表情 (by [芜湖。](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAi3keW6LHMMnvpmiepbD1E3T48J4TQRGXEnERKYlm8JA))
 
+[原文链接](https://jimeng.jianying.com/ai-tool/work-detail/7506870424794402111?workDetailType=Image&itemType=9)
+
+|输出 |
+|:---:|
+| <img src="cases/22/after.jpeg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+9宫格表情包，哆啦a梦，三维效果，高清，风格可爱，动作：打瞌睡、求抱抱、卖萌、微笑、生气、流泪哭、委屈、难过、激动
+```
+
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
+<a id="cases-21"></a>
+### 案例 21：制作动漫手机壁纸 (by [Steven](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAC7MPUJbeOJuG4J6B1oD5T6gDGbb9KSnJJJWv4Yc22CZieZT3ePpo4SF_8dwtsUBN))
+
+[原文链接](https://jimeng.jianying.com/ai-tool/work-detail/7543954695870483775?workDetailType=Image&itemType=9)
+
+|输出 |
+|:---:|
+| <img src="cases/21/after.jpeg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+大师作品，鸟山明龙珠孙悟空骑于神龙之上，气质，眼波流转，神龙咆哮，张牙舞爪，凶恶异常，动作设计符合动物运动规律和运动轨迹，厚涂美漫，色彩对比强烈，混合不对称图案，全身特写镜头，中式传统装饰设计，大师风格化，繁杂纹理，低机位仰拍镜头，个性角色绘制，空气感，街头艺术感，海报杂志不对称构图，粗犷线条，画面流动感，精致细节，超高清画质
+```
+
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
+<a id="cases-20"></a>
+### 案例 20：制作商品平面包装设计 (by [口袋](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAATwkK41HsjljLRqcAYeIQstnjS97dmtpRjHWVfO09yal41d2Qit8nHSml6Og2yWqj))
+
+[原文链接](https://jimeng.jianying.com/ai-tool/work-detail/7540939177043610919?workDetailType=Image&itemType=9)
+
+|输出 |
+|:---:|
+| <img src="cases/20/after.jpeg" width="400" alt="输出图片">  
+| <img src="cases/20/after2.jpeg" width="400" alt="输出图片">  
+
+
+**提示词1:**
+
+```
+面包烘焙品牌简约包装设计，极简烘培包装风格。以鲜明绿#008000 为主色调，搭配简洁白色字体。涵盖咖啡盒、手提袋、纸杯、菜单、卡片、包装袋、吸管杯等多样物品，突出‘MOCKUP’‘COFFEE MOCKUP SERIES’‘MENU MOCKUP’ 等简洁醒目文字。营造干练时尚、充满品质感的氛围，契合烘焙品牌简约包装定位
+```
+**提示词2:**
+```
+咖啡品牌包装套组样机，包含棕色刀叉、深棕色马克杯、咖啡色方形盒、深棕帆布袋、奶咖色碟子、棕色长条盒，所有物品印有白色咖啡logo"COFFEE MASTER"咖啡豆图标，木质背景，温暖灯光，咖啡文化风格
+```
+
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
 <a id="cases-19"></a>
 ### 案例 19：制作电商货品图 (by [@OdysseAI_](https://x.com/OdysseAI_))
 
@@ -93,7 +155,7 @@
 
 |输出 |
 |:---:|
-| <img src="cases/18/after.png" width="400" alt="输出图片">  
+| <img src="cases/18/after.jpeg" width="400" alt="输出图片">  
 
 **提示词:**
 
@@ -587,6 +649,9 @@ make a fisheye overhead view of this scene
 *   [nicekate(@nicekate8888)](https://x.com/nicekate8888)
 *   [宫臣良田](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAHrE5cOudxNBOcL4BZa28J9KpThaRusIZvCHlHSgBiwkbYP2rDQAPtxnI8QLIvily)
 *   [OdysseAI 奥德赛(@OdysseAI_)](https://x.com/OdysseAI_)
+*   [口袋](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAATwkK41HsjljLRqcAYeIQstnjS97dmtpRjHWVfO09yal41d2Qit8nHSml6Og2yWqj)
+*   [Steven](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAC7MPUJbeOJuG4J6B1oD5T6gDGbb9KSnJJJWv4Yc22CZieZT3ePpo4SF_8dwtsUBN)
+*   [芜湖。](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAi3keW6LHMMnvpmiepbD1E3T48J4TQRGXEnERKYlm8JA)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
