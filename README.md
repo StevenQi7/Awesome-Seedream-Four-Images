@@ -35,6 +35,9 @@
   - [目录](#目录)
   - [📖 案例目录](#-案例目录)
   - [🧩 案例](#-案例)
+    - [案例 18：制作立体冰箱贴 (by @宫臣良田)](#案例-18制作立体冰箱贴-by-宫臣良田)
+    - [案例 17：制作扁平风格插画 (by @nicekate8888)](#案例-17制作扁平风格插画-by-nicekate8888)
+    - [案例 16：制作国风多格漫画 (by @nicekate8888)](#案例-16制作国风多格漫画-by-nicekate8888)
     - [案例 15：制作自媒体多风格知识卡片 (by @op7418)](#案例-15制作自媒体多风格知识卡片-by-op7418)
     - [案例 14：制作PPT页面 (by @op7418)](#案例-14制作ppt页面-by-op7418)
     - [案例 13：为角色添加妆造 (by @op7418)](#案例-13为角色添加妆造-by-op7418)
@@ -57,6 +60,69 @@
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-18"></a>
+### 案例 18：制作立体冰箱贴 (by [@宫臣良田](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAHrE5cOudxNBOcL4BZa28J9KpThaRusIZvCHlHSgBiwkbYP2rDQAPtxnI8QLIvily))
+
+[原文链接](https://jimeng.jianying.com/ai-tool/work-detail/7538066705482779946?workDetailType=Image&itemType=9)
+
+|输出 |
+|:---:|
+| <img src="cases/18/after.png" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+一枚带有'苏州'字样的徽章，以东方之门、苏州城墙和苏州园林等象征性元素描绘苏州市的风景，充满活力的卡通风格与闪闪发光的金属光泽相结合，塞斯蒂娜风格，花卉图案、飘云和有光泽的金属色调丰富了关键轮廓和装饰细节，干净的白色背景，正面视角，引人注目，写实，色彩鲜艳
+```
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
+<a id="cases-17"></a>
+### 案例 17：制作扁平风格插画 (by [@nicekate8888](https://x.com/nicekate8888))
+
+[原文链接](https://x.com/nicekate8888/status/1965412078224879736)
+
+|输出 |
+|:---:|
+| <img src="cases/17/after.jpg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+分镜1：办公室，程序员小陈盯着电脑屏幕抓狂，对话框文字：“又卡了！这需求是人写的吗？”（红色，加粗）  
+分镜2：同事小李递咖啡，对话框文字：“喝杯咖啡，别卷了～”（绿色，带咖啡渍纹理）  
+分镜3：老板突然出现，对话框文字：“需求改了！要能飞！”（大号，红色感叹号）  
+分镜4：小陈崩溃扶额，电脑弹出“飞行模式已开启”，对话框文字：“我...我好像真飞起来了？”（蓝色，带飘动效果）  
+分镜5：办公室飘着各种物品，小陈笑指窗外，对话框文字：“下次需求，直接写‘能飞’啊！”（黄色，带气泡）  
+风格：扁平插画风，角色发型/工装统一，所有中文文字带轻微描边防糊
+```
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
+<a id="cases-16"></a>
+### 案例 16：制作国风多格漫画 (by [@nicekate8888](https://x.com/nicekate8888))
+
+[原文链接](https://x.com/nicekate8888/status/1965412078224879736)
+
+|输出 |
+|:---:|
+| <img src="cases/16/after.jpg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+分镜1：竹林小屋，少年持剑望月，对话框文字：“师父，妖兽又来了！”（楷体，墨色，毛笔质感）  
+分镜2：竹林深处，少年与白狐并肩，白狐爪中托着发光符文，对话框文字：“信我，能破阵！”（行书，青色，半透明）  
+分镜3：山洞阵法，符文环绕少年，对话框文字：“天地共鸣，起！”（篆体，金色，微光效果）  
+分镜4：破阵后朝阳升起，少年与白狐背影，对话框文字：“守护这片山林，直到永远。”（隶书，暖橙，背景光晕）  
+风格：中国水墨+现代漫画，角色衣着细节一致，所有中文文字清晰工整。  
+
+（白狐爪而不是少年的手）
+```
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
 
 <a id="cases-15"></a>
 ### 案例 15：制作自媒体多风格知识卡片 (by [@op7418](https://x.com/op7418))
@@ -493,6 +559,8 @@ make a fisheye overhead view of this scene
 *   [江枫(@maple_cq)](https://x.com/maple_cq)
 *   [鸣姐.AI 进阶(@ZPanming18622)](https://x.com/ZPanming18622)
 *   [落影流年(@irisloveli)](https://x.com/irisloveli)
+*   [nicekate(@nicekate8888)](https://x.com/nicekate8888)
+*   [宫臣良田](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAHrE5cOudxNBOcL4BZa28J9KpThaRusIZvCHlHSgBiwkbYP2rDQAPtxnI8QLIvily)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
