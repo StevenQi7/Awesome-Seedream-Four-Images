@@ -35,6 +35,7 @@
   - [目录](#目录)
   - [📖 案例目录](#-案例目录)
   - [🧩 案例](#-案例)
+    - [案例 23：制作个性头像转绘 (by yangfei33113)](#案例-23制作个性头像转绘-by-yangfei33113)
     - [案例 22：制作9宫格表情 (by 芜湖。)](#案例-22制作9宫格表情-by-芜湖)
     - [案例 21：制作动漫手机壁纸 (by Steven)](#案例-21制作动漫手机壁纸-by-steven)
     - [案例 20：制作商品平面包装设计 (by 口袋)](#案例-20制作商品平面包装设计-by-口袋)
@@ -65,6 +66,25 @@
 <a id="cases"></a>
 ## 🧩 案例
 
+
+<a id="cases-23"></a>
+### 案例 23：制作个性头像转绘 (by [yangfei33113](https://x.com/yangfei33113))
+
+[原文链接](https://x.com/yangfei33113/status/1965781012337885524)
+
+|输出 |
+|:---:|
+| <img src="cases/23/after.jpg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+使用所附参考照片，严格保留人物的面部特征，尽量放大其面部特征，让其更有辨识度。将其转绘为扁平化矢量卡通头像风格：黑色细描边、纯色块上色 ；正面或3/4胸像，头大身小，表情友好微笑。背景为纯蓝色填充整个图片与头像不同色系对比；画布1:1，线条不平滑，保留有手绘的粗糙感，头像有彩纸纹理（纸张帆布纸的质感），同时头像也有褶皱感，人物和背景之间有分层感和拼接感
+```
+
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
 <a id="cases-22"></a>
 ### 案例 22：制作9宫格表情 (by [芜湖。](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAi3keW6LHMMnvpmiepbD1E3T48J4TQRGXEnERKYlm8JA))
 
@@ -652,6 +672,7 @@ make a fisheye overhead view of this scene
 *   [口袋](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAATwkK41HsjljLRqcAYeIQstnjS97dmtpRjHWVfO09yal41d2Qit8nHSml6Og2yWqj)
 *   [Steven](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAC7MPUJbeOJuG4J6B1oD5T6gDGbb9KSnJJJWv4Yc22CZieZT3ePpo4SF_8dwtsUBN)
 *   [芜湖。](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAi3keW6LHMMnvpmiepbD1E3T48J4TQRGXEnERKYlm8JA)
+*   [yang fei(@yangfei33113)](https://x.com/yangfei33113)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
@@ -663,6 +684,6 @@ make a fisheye overhead view of this scene
 <a id="star-history"></a>
 ## 🌟 Star历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=StevenQi7/Awesome-Seedream-Four-Images&type=Date)](https://www.star-history.com/#StevenQi7/Awesome-Seedream-Four-Images&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=StevenQi7/Awesome-Seedream-Four-Images&type=Timeline)](https://www.star-history.com/#StevenQi7/Awesome-Seedream-Four-Images&Timeline)
 [⬆️ 返回顶部](#readme-top)
 
