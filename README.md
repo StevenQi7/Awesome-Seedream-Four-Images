@@ -35,6 +35,7 @@
   - [目录](#目录)
   - [📖 案例目录](#-案例目录)
   - [🧩 案例](#-案例)
+    - [案例 24：制作3D拍立得照片 (by 珞珈Lorjia)](#案例-24制作3D拍立得照片-by-珞珈Lorjia)
     - [案例 23：制作个性头像转绘 (by yangfei33113)](#案例-23制作个性头像转绘-by-yangfei33113)
     - [案例 22：制作9宫格表情 (by 芜湖。)](#案例-22制作9宫格表情-by-芜湖)
     - [案例 21：制作动漫手机壁纸 (by Steven)](#案例-21制作动漫手机壁纸-by-steven)
@@ -66,6 +67,23 @@
 <a id="cases"></a>
 ## 🧩 案例
 
+<a id="cases-24"></a>
+### 案例 24：制作3D拍立得照片 (by [珞珈Lorjia](https://x.com/lorjia6598))
+
+[原文链接](https://x.com/lorjia6598/status/1966128399686172823)
+
+|输入 |输出 |
+|:---:|:---:|
+| <img src="cases/24/before.jpg" width="400" alt="输出图片"> | <img src="cases/24/after.jpg" width="400" alt="输出图片">  
+
+**提示词:**
+
+```
+请根据以上的照片，将画面中的角色转化为3D Q版风格，是真实世界的光影，保留人物细节包括服装和造型。整体放在一张拍立得照片中，有一只漂亮的手握着拍立得相纸。图中角色从拍立得相纸中，突破边框，延伸进入现实世界的二维空间。背景延续拍立得中的背景，Q版风格，背景不需要再有人物出现，仅作为拍立得中背景的延展，与照片原始场景一致。拍立得底部文字是手写字体“7周年纪念日快乐”
+``` 
+---
+
+[⬆️ 返回案例目录](#cases-toc) 
 
 <a id="cases-23"></a>
 ### 案例 23：制作个性头像转绘 (by [yangfei33113](https://x.com/yangfei33113))
@@ -673,6 +691,7 @@ make a fisheye overhead view of this scene
 *   [Steven](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAC7MPUJbeOJuG4J6B1oD5T6gDGbb9KSnJJJWv4Yc22CZieZT3ePpo4SF_8dwtsUBN)
 *   [芜湖。](https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAi3keW6LHMMnvpmiepbD1E3T48J4TQRGXEnERKYlm8JA)
 *   [yang fei(@yangfei33113)](https://x.com/yangfei33113)
+*   [珞珈Lorjia(@lorjia6598)](https://x.com/lorjia6598)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
