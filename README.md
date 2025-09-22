@@ -32,7 +32,7 @@
 ## 📖 案例目录
 
   - [案例 28：案例 28：制作中文海报 (by @aiwarts)](#案例-28：制作中文海报-by-aiwarts)
-  - [案例 27：制作漫威角色室内设计 (by @IqraSaifiii)](#案例-27制作漫威角色室内设计-by-IqraSaifiii)
+  - [案例 27：制作漫威角色室内设计 (by @IqraSaifiii)](#案例-27制作漫威角色室内设计-by-op7418)
   - [案例 26：制作设计海报 (by @op7418)](#案例-26制作设计海报-by-op7418)
   - [案例 25：制作彩色版九宫格版画故事 (by 搞钱启示录)](#案例-25制作彩色版九宫格版画故事-by-搞钱启示录)
   - [案例 24：制作3D拍立得照片 (by 珞珈Lorjia)](#案例-24制作3D拍立得照片-by-珞珈Lorjia)
@@ -74,7 +74,7 @@
 
 |输出1 |输出2 |
 |:---:|:---:|
-| <img src="cases/28/after.jpg" width="400" alt="输出图片"> ｜ <img src="cases/28/after1.jpg" width="400" alt="输出图片">  
+| <img src="cases/28/after.jpg" width="400" alt="输入图片">  | <img src="cases/28/after1.jpg" width="400" alt="输出图片">   
 
 **提示词1:**
 
