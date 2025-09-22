@@ -31,6 +31,8 @@
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+  - [案例 28：案例 28：制作中文海报 (by @aiwarts)](#案例-28：制作中文海报-by-aiwarts)
+  - [案例 27：制作漫威角色室内设计 (by @IqraSaifiii)](#案例-27制作漫威角色室内设计-by-IqraSaifiii)
   - [案例 26：制作设计海报 (by @op7418)](#案例-26制作设计海报-by-op7418)
   - [案例 25：制作彩色版九宫格版画故事 (by 搞钱启示录)](#案例-25制作彩色版九宫格版画故事-by-搞钱启示录)
   - [案例 24：制作3D拍立得照片 (by 珞珈Lorjia)](#案例-24制作3D拍立得照片-by-珞珈Lorjia)
@@ -65,7 +67,57 @@
 <a id="cases"></a>
 ## 🧩 案例
 
+<a id="cases-28"></a>
+### 案例 28：制作中文海报 (by [@aiwarts](https://x.com/aiwarts))
 
+[原文链接](https://x.com/aiwarts/status/1969788351810347347)
+
+|输出1 |输出2 |
+|:---:|:---:|
+| <img src="cases/28/after.jpg" width="400" alt="输出图片"> ｜ <img src="cases/28/after1.jpg" width="400" alt="输出图片">  
+
+**提示词1:**
+
+```
+音乐节海报，主标题“声浪音乐节”，副标题小字“SOUND WAVE FESTIVAL 2025”。中部为舞台日程表：“Day1｜10/05｜电子舞台：DJ Kairo｜摇滚舞台：火焰乐队”
+“Day2｜10/06｜爵士舞台：Blue Note｜独立舞台：拾荒计划”
+“Day3｜10/07｜电子舞台：Drop Jump｜摇滚舞台：白日梦乐队”
+每条占一行，一共三行，左对齐，采用等宽字体。左下角写“音乐节地址：杭州白马湖公园随便一块草地”，右下角加票价信息区块，三段小字写着“早鸟票、预售票、现场票”
+``` 
+---
+
+**提示词2:**
+
+```
+艺术展览海报，主标题是艺术书法字体“色彩的边界”，副标题“EXHIBITION OF COLORS”。中间竖向排版写着一首古诗《登鹳雀楼》，右侧有活动时间表：
+「日期｜主题」
+「10/01｜开幕演讲」
+「10/05｜学术论坛」
+「10/15｜闭幕餐会」
+底部小字说明：“开放时间每日10:00–18:00，周一闭馆”。
+``` 
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-27"></a>
+### 案例 27：制作漫威角色室内设计 (by [@IqraSaifiii](https://x.com/IqraSaifiii))
+
+[原文链接](https://x.com/IqraSaifiii/status/1969868863522423034)
+
+|输出 |输出 |
+|:---:|:---:|
+| <img src="cases/27/after1.jpg" width="400" alt="输出图片"> ｜ <img src="cases/27/after2.jpg" width="400" alt="输出图片">  
+| <img src="cases/27/after3.jpg" width="400" alt="输出图片"> ｜ <img src="cases/27/after4.jpg" width="400" alt="输出图片">  
+| <img src="cases/27/after5.jpg" width="400" alt="输出图片"> ｜ <img src="cases/27/after6.jpg" width="400" alt="输出图片">  
+**提示词:**
+
+```
+A hyper-realistic, professional interior design photograph of a modern living room inspired by a [Superhero]. The room has clean lines, a neutral color palette of greys, blacks, and whites, with accents of [Theme Color]. A large, stylized 3D wall sculpture of the [Superhero] dominates the main wall. Subtle thematic details are placed throughout the room, such as framed art prints of blueprints, a floor lamp designed to resemble a specific motif (e.g., a shield or logo), and a side table with a few well-placed props (e.g., a stylized helmet). The furniture is contemporary and minimalist, with a large, comfortable sofa and a low coffee table. Dramatic, focused lighting highlights the main wall sculpture, while warm ambient light from windows and lamps creates an inviting atmosphere. The overall style is sophisticated and elegant, a subtle homage rather than an overt fan-tribute.
+``` 
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 <a id="cases-26"></a>
 ### 案例 26：制作设计海报 (by [@op7418](https://x.com/op7418))
 
